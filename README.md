@@ -1,6 +1,6 @@
 # Hi, I'm Harini S 👋
 
-### Data Analyst | Computer Science Engineering Student
+### Data Analyst | Data Scientist | Computer Science Engineering Student
 
 I'm a final-year B.E. Computer Science and Engineering student passionate about
 Data Analytics, Data Science, and AI.
